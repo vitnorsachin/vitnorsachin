@@ -7,14 +7,14 @@
 - 🤝 I’m looking to collaborate on Open-Source Projects  
 - 🌱 I’m currently learning  MERN-E-Commerce-Project
 
-
+<br>
 
 ## 📱 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ganeshvitnor3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-vitnor)
 
-
+<br>
 
 ## 🛠 Tech Stack:
 
@@ -29,11 +29,12 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-
+<br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -54,8 +55,7 @@
 ![Punycode](https://img.shields.io/badge/Punycode-2.3.1-9E9E9E?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3.24.3-ff416c?style=for-the-badge)
 
-
-
+<br>
 
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,7 +64,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+<br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vitnorsachin&show_icons=true&theme=radical)
@@ -72,7 +72,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitnorsachin&layout=compact&theme=radical)
 
 
-
+<br>
 
 ## 📂 Popular Projects:
 - [Urls Shortener](https://github.com/vitnorsachin/drizzle_url_s_project)
